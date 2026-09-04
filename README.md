@@ -54,5 +54,5 @@ The tool includes an intelligent **Site Detector**, **adaptive bypass mechanisms
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-repo/ddos-tool.git
+git clone (https://github.com/PrimeJack143/ddos-tool)
 cd ddos-tool
